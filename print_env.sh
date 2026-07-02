@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Copyright (c) 2025, NVIDIA CORPORATION.
+# SPDX-FileCopyrightText: Copyright (c) 2025 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+# SPDX-License-Identifier: Apache-2.0
 # Reports relevant environment information useful for diagnosing and
 # debugging generative-protein-binder-design issues.
 # Usage:
