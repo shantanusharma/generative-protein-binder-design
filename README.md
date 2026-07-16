@@ -44,3 +44,15 @@ Follow the instructions in the [protein-design-chart](protein-design-chart) dire
 ## Notebook
 
 An example of how to call each protein binder design step is located in [src/protein-binder-design.ipynb](src/protein-binder-design.ipynb)
+
+## License
+
+**GOVERNING DOWNLOAD TERMS:** Use of this blueprint software is governed by the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) license, and enables use of separate open source and proprietary software, models, data and services governed by their respective licenses below:
+
+1. Use of the RfDiffusion NIM is governed by the [NVIDIA Software License Agreement](https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-software-license-agreement/) and [Product-Specific Terms for AI Products](https://www.nvidia.com/en-us/agreements/enterprise-software/product-specific-terms-for-ai-products/). Use of the model is governed by the [NVIDIA AI Foundation Models Community License Agreement](https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-ai-foundation-models-community-license-agreement/). Additional Information: [BSD license](https://opensource.org/licenses/BSD-3-Clause).
+
+2. Use of the ProteinMPNN NIM is governed by the [NVIDIA Software License Agreement](https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-software-license-agreement/) and [Product-Specific Terms for NVIDIA AI Products](https://www.nvidia.com/en-us/agreements/enterprise-software/product-specific-terms-for-ai-products/). Use of the model is governed by the [NVIDIA Community Model License](https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-community-models-license/). Additional Information: [MIT License](https://github.com/dauparas/ProteinMPNN/blob/8907e6671bfbfc92303b5f79c4b5e6ce47cdef57/LICENSE).
+
+3. Use of the OpenFold3 NIM is governed by the [NVIDIA Software License Agreement](https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-software-license-agreement/) and [Product-Specific Terms for NVIDIA AI Products](https://www.nvidia.com/en-us/agreements/enterprise-software/product-specific-terms-for-ai-products/). Use of the model is governed by the [NVIDIA Open Model License](https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-open-model-license/). Additional Information: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+This project will download and install additional third-party open source software projects. Review the license terms of these open source projects before use, found in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
